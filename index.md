@@ -1,7 +1,8 @@
 # Case study about the influence of social dimensions on solvency scores
 
 ## About the project
-The result of this project is the master thesis ![Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score](master_thesis/Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score.pdf)
+The result of this project is the master thesis
+[Empirical Study about the Influence of Social Dimensions on the SCHUFA-Score](master_thesis/Empirical_Study_about_the_Influence_of_Social_Dimensions_on_the_SCHUFA-Score.pdf).
 
 ### The data set and the openSCHUFA project
 
